@@ -7,6 +7,7 @@
   <h2> Call Us : +91-9705970552 </h2>
   
   <h3> Our Ofc Location : Ameerpet, Hyderbad </h3>
+<p> THANKS FOR CHOOSING DEVOPS COURSE</p>
 <marquee> Learn here and lead anywhere </marquee>
 
 
